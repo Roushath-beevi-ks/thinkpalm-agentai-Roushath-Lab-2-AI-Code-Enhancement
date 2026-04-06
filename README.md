@@ -1,1 +1,1 @@
-# thinkpalm-agentai-Roushath-Lab-2-AI-Code-Enhancement
+# Roushath-Frontend-Dev - Lab-2-AI-Code-Enhancement
